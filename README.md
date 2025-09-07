@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anshul Haldkar
-- 👀 I’m interested in Salesforce Development
-- 🌱 I’m currently learning Salesforce to Heroku Integration(node.js)
-- 💞️ I’m looking to collaborate on Salesforce Development
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me wwwanshulcom027@gmail.com
 
 <!---
