@@ -7,10 +7,9 @@
 
 - 📫 How to reach me **wwwanshulcom027@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-## Feeding...
-
 ![Snake animation](https://raw.githubusercontent.com/findanshul/findanshul/output/github-contribution-grid-snake-dark.svg)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anshul-haldkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-haldkar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/wwwanshulcom027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wwwanshulcom027" height="30" width="40" /></a>
